@@ -11,3 +11,4 @@
 11. Run docker stop <CONTAINER ID>
 12. Run docker remove <CONTAINER ID>
 13. Run docker image remove petclinic-h2-docker:1.0.0
+14. Test
